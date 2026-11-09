@@ -1,0 +1,14 @@
+Chain_Name,Input,Output
+Summarization,"
+Artificial Intelligence is a technology that enables machines
+to perform tasks that normally require human intelligence.
+It is used in healthcare, education, banking and transportation.
+AI helps improve efficiency, automate tasks and support decision-making.
+","Okay, here's a simple summary of the text:
+
+Artificial Intelligence (AI) is a technology that helps computers do things that usually need human intelligence, like making decisions and automating tasks. It’s being used in lots of different areas, like healthcare, education, and business."
+Question Answering,"
+Python is a high-level programming language.
+It is easy to learn and has a simple syntax.
+Python is used in web development, data science and artificial intelligence.
+","Python is used in web development, data science, and artificial intelligence."

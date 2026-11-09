@@ -1,0 +1,10 @@
+Features,Week 9 Chatbot,Week 10 LangChain Chatbot
+Framework,Ollama,LangChain with Ollama
+LLM Model,Gemma 3:1b,Gemma 3:1b
+Prompt Handling,Basic system prompt,Five reusable prompt templates
+User Interaction,Menu-based interaction,Prompt selection and dynamic input
+Response Generation,Direct chatbot response,LLM Chain using LCEL
+Prompt Templates,Original and Improved Prompts,Five different prompt templates
+Additional Chains,Not implemented,Summarization and Question Answering
+CSV Storage,Chat history and response CSV files,"Queries, responses and chain results CSV files"
+Testing,20 sample questions,20 test queries

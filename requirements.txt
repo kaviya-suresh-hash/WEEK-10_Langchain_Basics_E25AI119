@@ -1,0 +1,6 @@
+langchain
+langchain-core
+langchain-ollama
+ollama==0.6.3
+pandas
+jupyter
